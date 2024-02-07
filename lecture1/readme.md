@@ -1,1 +1,1 @@
-
+(link)[https://miro.com/welcomeonboard/QndUQkE4aDI0V2RIOFI0eWZibWxMUmJTY3kyclBVWDQydW4xdkNESWo2ZEllWUl6S2FNNDlXQ2NRTEExWkFyNHwzNDU4NzY0NTcxNzczMzU1OTgzfDI=?share_link_id=304220410267] to the online notebook which was used during lecture 1:  FWIW, am ok in person or zoom,. 
