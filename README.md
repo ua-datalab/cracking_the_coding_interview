@@ -24,5 +24,5 @@ For more information, please visit the **[Data Science Institute Events Calendar
 | 1  | Introduction + Basic Tips and Tricks  | [here](https://youtu.be/AJL5d6a9Etc?si=1dsAqC5MLKbkqXuc) | [here](https://miro.com/app/board/uXjVNwSCIxo=/?share_link_id=171457613240) |
 | 2  | Memory Model + Recursion  | [here](https://youtu.be/syoN5dkQGmw?si=pXX-eHWX0JCUMTCY) | [here](https://miro.com/app/board/uXjVNsikPx4=/?share_link_id=372872009165) |
 | 3  | Linked list  | TBD| [here](https://miro.com/app/board/uXjVNvuUU3w=/?share_link_id=773277918204) |
-| 1  | Introduction + Basic Tips and Tricks  | [here](https://youtu.be/AJL5d6a9Etc?si=1dsAqC5MLKbkqXuc) | [here](https://miro.com/welcomeonboard/QndUQkE4aDI0V2RIOFI0eWZibWxMUmJTY3kyclBVWDQydW4xdkNESWo2ZEllWUl6S2FNNDlXQ2NRTEExWkFyNHwzNDU4NzY0NTcxNzczMzU1OTgzfDI=?share_link_id=686116604665) |
+| 4  | Dynamic Programming  | TBD | [here](https://drive.google.com/file/d/1aXmAOYb8S6_XLfgGdr-DL3haxlvnk6Qb/view?usp=drive_link) |
 
