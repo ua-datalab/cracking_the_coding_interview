@@ -21,5 +21,8 @@ For more information, please visit the **[Data Science Institute Events Calendar
 
 |Lecture Number  | Lecture Title  | Video Recording in Youtube  | Whiteboard  |
 | ------------- | ------------- | ------------- | ------------- |
-| 1  | Introduction + Basic Tips and Tricks  | [here]([url](https://youtu.be/AJL5d6a9Etc?si=1dsAqC5MLKbkqXuc)https://youtu.be/AJL5d6a9Etc?si=1dsAqC5MLKbkqXuc)  | [here](https://miro.com/welcomeonboard/QndUQkE4aDI0V2RIOFI0eWZibWxMUmJTY3kyclBVWDQydW4xdkNESWo2ZEllWUl6S2FNNDlXQ2NRTEExWkFyNHwzNDU4NzY0NTcxNzczMzU1OTgzfDI=?share_link_id=686116604665) |
+| 1  | Introduction + Basic Tips and Tricks  | [here](https://youtu.be/AJL5d6a9Etc?si=1dsAqC5MLKbkqXuc) | [here](https://miro.com/welcomeonboard/QndUQkE4aDI0V2RIOFI0eWZibWxMUmJTY3kyclBVWDQydW4xdkNESWo2ZEllWUl6S2FNNDlXQ2NRTEExWkFyNHwzNDU4NzY0NTcxNzczMzU1OTgzfDI=?share_link_id=686116604665) |
+| 2  | Memory Model + Recursion  | [here](https://youtu.be/syoN5dkQGmw?si=pXX-eHWX0JCUMTCY) | [here](https://miro.com/app/board/uXjVNsikPx4=/?share_link_id=372872009165) |
+| 1  | Introduction + Basic Tips and Tricks  | [here](https://youtu.be/AJL5d6a9Etc?si=1dsAqC5MLKbkqXuc) | [here](https://miro.com/welcomeonboard/QndUQkE4aDI0V2RIOFI0eWZibWxMUmJTY3kyclBVWDQydW4xdkNESWo2ZEllWUl6S2FNNDlXQ2NRTEExWkFyNHwzNDU4NzY0NTcxNzczMzU1OTgzfDI=?share_link_id=686116604665) |
+| 1  | Introduction + Basic Tips and Tricks  | [here](https://youtu.be/AJL5d6a9Etc?si=1dsAqC5MLKbkqXuc) | [here](https://miro.com/welcomeonboard/QndUQkE4aDI0V2RIOFI0eWZibWxMUmJTY3kyclBVWDQydW4xdkNESWo2ZEllWUl6S2FNNDlXQ2NRTEExWkFyNHwzNDU4NzY0NTcxNzczMzU1OTgzfDI=?share_link_id=686116604665) |
 
