@@ -16,13 +16,7 @@ For more information, please visit the **[Data Science Institute Events Calendar
 
 ***Looking forward to seeing you there! Please spread the word with friends and colleagues***.
 
-**Links To Lecture Recording and Whiteboard**
 
 
-|Lecture Number  | Lecture Title  | Video Recording in Youtube  | Whiteboard  |
-| ------------- | ------------- | ------------- | ------------- |
-| 1  | Introduction + Basic Tips and Tricks  | [here](https://youtu.be/AJL5d6a9Etc?si=1dsAqC5MLKbkqXuc) | [here](https://miro.com/app/board/uXjVNwSCIxo=/?share_link_id=171457613240) |
-| 2  | Memory Model + Recursion  | [here](https://youtu.be/syoN5dkQGmw?si=pXX-eHWX0JCUMTCY) | [here](https://miro.com/app/board/uXjVNsikPx4=/?share_link_id=372872009165) |
-| 3  | Linked list  | TBD| [here](https://miro.com/app/board/uXjVNvuUU3w=/?share_link_id=773277918204) |
-| 4  | Dynamic Programming  | TBD | [here](https://drive.google.com/file/d/1aXmAOYb8S6_XLfgGdr-DL3haxlvnk6Qb/view?usp=drive_link) |
+Please refer to the [wiki page](https://github.com/ua-datalab/cracking_the_coding_interview/wiki) for specific syllabus, and video recordings
 
