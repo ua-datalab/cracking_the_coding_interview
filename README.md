@@ -15,3 +15,11 @@ For more information, please visit the **[Data Science Institute Events Calendar
 **Contact:**  Mithun Paul (mithunpaul@arizona.edu)
 
 ***Looking forward to seeing you there! Please spread the word with friends and colleagues***.
+
+**Links To Lecture Recording and Whiteboard**
+
+
+|Lecture Number  | Lecture Title  | Video Recording in Youtube  | Whiteboard  |
+| ------------- | ------------- | ------------- | ------------- |
+| 1  | Introduction + Basic Tips and Tricks  | 1  | Introduction + Basic Tips and Tricks  |
+
