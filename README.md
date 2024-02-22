@@ -21,5 +21,5 @@ For more information, please visit the **[Data Science Institute Events Calendar
 
 |Lecture Number  | Lecture Title  | Video Recording in Youtube  | Whiteboard  |
 | ------------- | ------------- | ------------- | ------------- |
-| 1  | Introduction + Basic Tips and Tricks  | 1  | Introduction + Basic Tips and Tricks  |
+| 1  | Introduction + Basic Tips and Tricks  | [here]([url](https://youtu.be/AJL5d6a9Etc?si=1dsAqC5MLKbkqXuc)https://youtu.be/AJL5d6a9Etc?si=1dsAqC5MLKbkqXuc)  | [here](https://miro.com/welcomeonboard/QndUQkE4aDI0V2RIOFI0eWZibWxMUmJTY3kyclBVWDQydW4xdkNESWo2ZEllWUl6S2FNNDlXQ2NRTEExWkFyNHwzNDU4NzY0NTcxNzczMzU1OTgzfDI=?share_link_id=686116604665) |
 
