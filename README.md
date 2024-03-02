@@ -14,6 +14,8 @@ For more information, please visit the **[Data Science Institute Events Calendar
 
 **Contact:**  Mithun Paul (mithunpaul@arizona.edu)
 
+Dedication/acknowledgement/hat-tip: Everything I learned is from this amazing guru, Kamal Rawat of [Ritambhara Technologies](https://www.ritambhara.in/). Do watch his videos if you have time. He explains things soooooo much better than I do..Just standing on the shoulders of giants in an effort to share the knowledge I learned from them.
+
 ***Looking forward to seeing you there! Please spread the word with friends and colleagues***.
 
 
