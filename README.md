@@ -21,5 +21,5 @@ Please refer to the [wiki page](https://github.com/ua-datalab/cracking_the_codin
 
 ****Dedication/acknowledgement/hat-tip:****
 
-Everything I learned is from this amazing guru, Kamal Rawat of [Ritambhara Technologies](https://www.ritambhara.in/). Do watch his videos if you have time. He explains things soooooo much better than I do..Just standing on the shoulders of giants in an effort to share the knowledge I learned from them.
+Everything I learned is from this amazing guru, Kamal Rawat of [Ritambhara Technologies](https://www.ritambhara.in/). Do watch his videos if you have time. He explains things soooooo much better than I do..I am just standing on the shoulders of giants like him in an effort to share the knowledge I learned from them.
 
