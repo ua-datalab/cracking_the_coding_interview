@@ -4,7 +4,10 @@ Are you preparing for job interviews in the field of computer science? Do you fe
 
 To alleviate the burden of interview preparation, the **[UArizona DataLab](https://www.datascience.arizona.edu/education/uarizona-datalab)** from the  [**Data Science Institute**](https://www.datascience.arizona.edu/) is offering a 12-week workshop series called ***"Cracking the coding interview"*** this semester (Spring 2024). In this workshop, we will discuss tricks, tips, and patterns commonly found in programming interview questions. We will also cover the foundational knowledge necessary to solve these questions. The best part? It's completely free. See below for more details.
 
-Please join us in-person at the **Weaver Science & Engineering Library Room 212**, or join via Zoom: **[864 232 23879](https://arizona.zoom.us/j/86423223879), starting February 7th at 3PM,** and happening every Wednesday.
+***Please join us in-person at the **Weaver Science & Engineering Library Room 212**, or join via Zoom: **[864 232 23879](https://arizona.zoom.us/j/86423223879), ***
+~~starting February 7th at 3PM, and happening every Wednesday~~
+Update: Starting March 13th 2024, we will be doing Monday Wednesday Friday 4pm to 5pm Arizona time.
+
 
 **Mandatory Pre-requisites:** Any programming experience including python
 
